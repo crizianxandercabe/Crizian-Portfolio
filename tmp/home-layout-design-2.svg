@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="900" viewBox="0 0 1440 900">
+<defs>
+ <linearGradient id="bg5" x2="1" y2="1"><stop stop-color="#070a10"/><stop offset=".58" stop-color="#0a111a"/><stop offset="1" stop-color="#05080e"/></linearGradient>
+ <linearGradient id="side5" x2="1" y2="1"><stop stop-color="#12335a"/><stop offset=".55" stop-color="#101b2a"/><stop offset="1" stop-color="#0b111a"/></linearGradient>
+ <linearGradient id="shade5" x2="0" y2="1"><stop offset=".48" stop-color="#06101b" stop-opacity="0"/><stop offset="1" stop-color="#06101b" stop-opacity=".95"/></linearGradient>
+ <radialGradient id="glow5"><stop stop-color="#1685ff" stop-opacity=".22"/><stop offset="1" stop-color="#1685ff" stop-opacity="0"/></radialGradient>
+ <pattern id="grid5" width="46" height="46" patternUnits="userSpaceOnUse"><path d="M46 0H0V46" fill="none" stroke="#9bcfff" stroke-opacity=".04"/></pattern>
+ <clipPath id="photo5"><path d="M930 158H1268V721H930Z"/></clipPath>
+</defs>
+<rect width="1440" height="900" fill="url(#bg5)"/><rect width="1440" height="900" fill="url(#grid5)"/><ellipse cx="1121" cy="420" rx="390" ry="405" fill="url(#glow5)"/>
+<!-- navbar -->
+<rect width="1440" height="82" fill="#070b12" fill-opacity=".97"/><path d="M0 82H1440" stroke="#25364a"/><text x="86" y="53" fill="#f2f6fc" font-family="Arial" font-size="27" font-weight="900">CXA<tspan fill="#1685ff">.</tspan></text>
+<g font-family="Arial" font-size="11" font-weight="700" letter-spacing="1" fill="#95a5b8"><text x="580" y="49" fill="#6abaff">HOME</text><text x="660" y="49">PROFILE</text><text x="765" y="49">EDUCATION</text><text x="882" y="49">SKILLS</text><text x="964" y="49">PROJECTS</text><text x="1069" y="49">PROFDEV</text><text x="1173" y="49">RESUME</text><text x="1260" y="49">CONTACT</text></g><path d="M573 67H627" stroke="#1685ff" stroke-width="3"/>
+<!-- left content column -->
+<text x="90" y="166" fill="#66b8ff" font-family="Arial" font-size="10" font-weight="700" letter-spacing="2.4">WELCOME TO MY PORTFOLIO</text><path d="M90 183H252" stroke="#1685ff" stroke-width="2"/>
+<text x="82" y="301" fill="#f2f6fc" font-family="Arial" font-size="83" font-weight="900" letter-spacing="-4">CRIZIAN</text><text x="82" y="386" fill="#f2f6fc" font-family="Arial" font-size="83" font-weight="900" letter-spacing="-4">XANDER</text><text x="82" y="471" fill="#1685ff" font-family="Arial" font-size="87" font-weight="900" letter-spacing="-4">ACOSTA</text><text x="475" y="469" fill="#6abaff" font-family="Arial" font-size="62" font-weight="900">.</text>
+<path d="M91 510H548" stroke="#2b3b50"/><text x="93" y="551" fill="#aec0d2" font-family="Arial" font-size="15">3rd-year BSIT student focused on building useful</text><text x="93" y="577" fill="#aec0d2" font-family="Arial" font-size="15">digital experiences through web and mobile projects.</text>
+<g><path d="M91 624H290L307 641V687H91Z" fill="#1685ff"/><text x="116" y="658" fill="#fff" font-family="Arial" font-size="11" font-weight="700" letter-spacing="1">SEE MY PROJECTS</text><text x="276" y="658" fill="#fff" font-family="Arial" font-size="16" font-weight="700">↗</text><path d="M323 624H478V687H323Z" fill="#0a1018" stroke="#36485e"/><text x="349" y="658" fill="#e1e9f3" font-family="Arial" font-size="11" font-weight="700" letter-spacing="1">CONTACT ME</text></g>
+<text x="94" y="737" fill="#7589a2" font-family="Arial" font-size="9" font-weight="700" letter-spacing="1.7">WEB · MOBILE · DATABASE PROJECTS</text>
+<path d="M92 781H548" stroke="#293a4e"/><text x="94" y="824" fill="#eff4fa" font-family="Arial" font-size="24" font-weight="900">04</text><text x="137" y="822" fill="#8498ae" font-family="Arial" font-size="9" font-weight="700" letter-spacing="1.4">ACADEMIC PROJECTS</text><text x="357" y="824" fill="#eff4fa" font-family="Arial" font-size="24" font-weight="900">2024</text><text x="414" y="822" fill="#8498ae" font-family="Arial" font-size="9" font-weight="700" letter-spacing="1.4">COLLEGE START</text>
+<!-- portrait feature panel -->
+<path d="M848 135H1258L1332 209V749H922L848 675Z" fill="#0a111b" stroke="#315982" stroke-width="1.5"/><path d="M870 157H1240L1310 227V727H922L870 675Z" fill="url(#side5)"/>
+<circle cx="1097" cy="423" r="246" fill="none" stroke="#5db2ff" stroke-opacity=".25"/><circle cx="1097" cy="423" r="210" fill="none" stroke="#5db2ff" stroke-opacity=".17" stroke-dasharray="4 9"/>
+<image href="../assets/crizian-profile.jpg" x="930" y="158" width="338" height="563" preserveAspectRatio="xMidYMin slice" clip-path="url(#photo5)"/>
+<path d="M930 158H1268V721H930Z" fill="none" stroke="#55a9f5" stroke-opacity=".6"/>
+<path d="M958 182H1123V219H958Z" fill="#07111e" stroke="#316995"/><circle cx="975" cy="201" r="4" fill="#46d39d"/><text x="990" y="205" fill="#e0efff" font-family="Arial" font-size="9" font-weight="700" letter-spacing="1">3RD YEAR · BSIT</text>
+<path d="M930 608H1268V721H930Z" fill="url(#shade5)"/><text x="955" y="658" fill="#9fc8ee" font-family="Arial" font-size="9" font-weight="700" letter-spacing="2">STUDENT DEVELOPER</text><text x="955" y="689" fill="#f3f6fb" font-family="Arial" font-size="20" font-weight="700">Crizian Xander Acosta</text>
+<path d="M1290 295V616" stroke="#2687d8" stroke-width="2"/><g fill="#5bb6ff"><circle cx="1290" cy="295" r="4"/><circle cx="1290" cy="341" r="4"/><circle cx="1290" cy="387" r="4"/><circle cx="1290" cy="433" r="4"/><circle cx="1290" cy="479" r="4"/><circle cx="1290" cy="525" r="4"/><circle cx="1290" cy="571" r="4"/><circle cx="1290" cy="616" r="4"/></g>
+<path d="M834 157V127H864M1333 780H1363V750" fill="none" stroke="#1685ff" stroke-width="2"/><circle cx="834" cy="157" r="4" fill="#1685ff"/><circle cx="1363" cy="750" r="4" fill="#1685ff"/><text x="910" y="786" fill="#7195ba" font-family="Arial" font-size="9" font-weight="700" letter-spacing="2">LEARN / CREATE / GROW</text><text x="1214" y="786" fill="#7195ba" font-family="Arial" font-size="9" font-weight="700" letter-spacing="2">HOME / 01</text>
+</svg>

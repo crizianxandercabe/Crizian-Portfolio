@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="900" viewBox="0 0 1440 900">
+<defs>
+ <linearGradient id="bg3" x2="1" y2="1"><stop stop-color="#070a10"/><stop offset=".48" stop-color="#0a111b"/><stop offset="1" stop-color="#04070c"/></linearGradient>
+ <linearGradient id="blue3" x2="1" y2="1"><stop stop-color="#1685ff"/><stop offset=".55" stop-color="#0860c7"/><stop offset="1" stop-color="#092344"/></linearGradient>
+ <linearGradient id="photo3" x2="0" y2="1"><stop offset=".45" stop-color="#07101a" stop-opacity="0"/><stop offset="1" stop-color="#07101a" stop-opacity=".94"/></linearGradient>
+ <radialGradient id="aura3"><stop stop-color="#147eff" stop-opacity=".25"/><stop offset="1" stop-color="#147eff" stop-opacity="0"/></radialGradient>
+ <pattern id="grid3" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M48 0H0V48" fill="none" stroke="#99cfff" stroke-opacity=".045"/></pattern>
+ <clipPath id="cut3"><path d="M885 171H1234L1293 230V739H885Z"/></clipPath>
+ <filter id="glow3"><feGaussianBlur stdDeviation="42"/></filter>
+</defs>
+<rect width="1440" height="900" fill="url(#bg3)"/><rect width="1440" height="900" fill="url(#grid3)"/><ellipse cx="1090" cy="433" rx="370" ry="430" fill="url(#aura3)"/>
+<!-- nav -->
+<rect width="1440" height="82" fill="#070b12" fill-opacity=".97"/><path d="M0 82H1440" stroke="#26364b"/><text x="83" y="53" fill="#f3f7fc" font-family="Arial" font-size="27" font-weight="900">CXA<tspan fill="#1685ff">.</tspan></text>
+<g font-family="Arial" font-size="11" font-weight="700" letter-spacing="1.15" fill="#91a0b2"><text x="585" y="49" fill="#70beff">HOME</text><text x="666" y="49">PROFILE</text><text x="772" y="49">EDUCATION</text><text x="888" y="49">SKILLS</text><text x="970" y="49">PROJECTS</text><text x="1077" y="49">PROFDEV</text><text x="1181" y="49">RESUME</text><text x="1268" y="49">CONTACT</text></g><path d="M578 67H632" stroke="#1685ff" stroke-width="3"/>
+<!-- left copy -->
+<path d="M94 160H232" stroke="#1685ff" stroke-width="3"/><text x="95" y="148" fill="#69b9ff" font-family="Arial" font-size="11" font-weight="700" letter-spacing="2.3">CRIZIAN XANDER ACOSTA</text>
+<text x="84" y="277" fill="#f3f6fb" font-family="Arial" font-size="78" font-weight="900" letter-spacing="-3">BUILDING</text><text x="84" y="359" fill="#f3f6fb" font-family="Arial" font-size="78" font-weight="900" letter-spacing="-3">WHAT'S</text><text x="84" y="441" fill="#1685ff" font-family="Arial" font-size="88" font-weight="900" letter-spacing="-3">NEXT<span fill="#f3f6fb">.</span></text>
+<rect x="93" y="480" width="4" height="69" fill="#1685ff"/><text x="115" y="503" fill="#b2bfce" font-family="Arial" font-size="14">3rd-year BSIT student creating web and</text><text x="115" y="527" fill="#b2bfce" font-family="Arial" font-size="14">mobile apps through hands-on projects.</text>
+<g><path d="M93 582H289L306 599V646H93Z" fill="#1685ff"/><text x="116" y="616" fill="#fff" font-family="Arial" font-size="11" font-weight="700" letter-spacing="1">EXPLORE MY PROJECTS</text><text x="275" y="616" fill="#fff" font-family="Arial" font-size="16" font-weight="700">↗</text><path d="M322 582H474V646H322Z" fill="#0a1018" stroke="#35475c"/><text x="348" y="616" fill="#e2eaf3" font-family="Arial" font-size="11" font-weight="700" letter-spacing="1">LET'S TALK</text></g>
+<!-- blueprint chips -->
+<text x="95" y="704" fill="#7387a0" font-family="Arial" font-size="9" font-weight="700" letter-spacing="2">TECH STACK</text>
+<g font-family="Arial" font-size="10" font-weight="700" letter-spacing="1"><path d="M94 721H177V754H94Z" fill="#0d1a28" stroke="#28609b"/><path d="M94 721H177" stroke="#1685ff" stroke-width="2"/><text x="116" y="742" fill="#c2ddf7">PHP</text><path d="M188 721H286V754H188Z" fill="#0d1a28" stroke="#28609b"/><path d="M188 721H286" stroke="#1685ff" stroke-width="2"/><text x="208" y="742" fill="#c2ddf7">FLUTTER</text><path d="M297 721H380V754H297Z" fill="#0d1a28" stroke="#28609b"/><path d="M297 721H380" stroke="#1685ff" stroke-width="2"/><text x="320" y="742" fill="#c2ddf7">CSS</text><path d="M391 721H474V754H391Z" fill="#0d1a28" stroke="#28609b"/><path d="M391 721H474" stroke="#1685ff" stroke-width="2"/><text x="414" y="742" fill="#c2ddf7">SQL</text></g>
+<!-- bottom metrics -->
+<path d="M94 794H480" stroke="#28394e"/><text x="96" y="834" fill="#f4f7fc" font-family="Arial" font-size="25" font-weight="900">04</text><text x="137" y="832" fill="#8396ac" font-family="Arial" font-size="9" font-weight="700" letter-spacing="1.5">ACADEMIC PROJECTS</text><text x="330" y="834" fill="#f4f7fc" font-family="Arial" font-size="25" font-weight="900">BSIT</text><text x="386" y="832" fill="#8396ac" font-family="Arial" font-size="9" font-weight="700" letter-spacing="1.5">3RD YEAR</text>
+<!-- portrait: angular double frame -->
+<path d="M820 152H1228L1328 252V751H920L820 651Z" fill="#0d1724" stroke="#1685ff" stroke-width="2"/>
+<path d="M842 173H1210L1307 270V730H920L842 652Z" fill="url(#blue3)" opacity=".5"/>
+<path d="M885 171H1234L1293 230V739H885Z" fill="#0a111b" stroke="#5cb4ff" stroke-opacity=".65"/>
+<image href="../assets/crizian-profile.jpg" x="885" y="171" width="408" height="568" preserveAspectRatio="xMidYMin slice" clip-path="url(#cut3)"/>
+<path d="M885 171H1234L1293 230V739H885Z" fill="none" stroke="#87c9ff" stroke-opacity=".58"/>
+<!-- floating identity plates -->
+<path d="M1064 195H1270V239H1064Z" fill="#06111d" stroke="#45a3ff"/><circle cx="1082" cy="217" r="5" fill="#42d69d"/><text x="1097" y="221" fill="#e5f2ff" font-family="Arial" font-size="9" font-weight="700" letter-spacing="1">BSIT · 3RD YEAR</text>
+<path d="M860 611H1125V718H878L860 700Z" fill="url(#photo3)"/><text x="889" y="661" fill="#73bdff" font-family="Arial" font-size="9" font-weight="700" letter-spacing="2">STUDENT DEVELOPER</text><text x="889" y="693" fill="#fff" font-family="Arial" font-size="22" font-weight="800">CRIZIAN ACOSTA</text>
+<path d="M1307 300V631" stroke="#1685ff" stroke-width="2"/><g fill="#59b4ff"><circle cx="1307" cy="300" r="4"/><circle cx="1307" cy="347" r="4"/><circle cx="1307" cy="394" r="4"/><circle cx="1307" cy="441" r="4"/><circle cx="1307" cy="488" r="4"/><circle cx="1307" cy="535" r="4"/><circle cx="1307" cy="582" r="4"/><circle cx="1307" cy="631" r="4"/></g>
+<text x="1230" y="700" fill="#eaf4ff" fill-opacity=".13" font-family="Arial" font-size="116" font-weight="900">CX</text>
+<!-- accent slashes -->
+<path d="M785 190L805 170M785 220L815 190M1322 777L1347 752M1345 777L1365 757" stroke="#1685ff" stroke-width="3"/><text x="866" y="783" fill="#6e91b6" font-family="Arial" font-size="9" font-weight="700" letter-spacing="2">DESIGN / DEVELOP / BUILD</text><text x="1216" y="783" fill="#6e91b6" font-family="Arial" font-size="9" font-weight="700" letter-spacing="2">01 / 08</text>
+</svg>
